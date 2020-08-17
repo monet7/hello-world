@@ -1,2 +1,3 @@
 # hello-world
-where ideas can be stored
+
+My name is Monet and I am 16 years old and I live in Barnet.
